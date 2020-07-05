@@ -1,0 +1,9 @@
+{
+  "DB_HOST": "satao.db.elephantsql.com",
+  "DB_PASSWORD": "mcqOmiBkOmff78TZmUuOkku6374zNQ4v",
+  "DB_USER": "dhvhnkjm",
+  "DB_PORT": "5432",
+  "DB_NAME": "dhvhnkjm",
+  "HASH_KEY": "aaaaaaaaa",
+  "SESSION_LOGOUT_MINUTES": 1
+}
